@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg" >
+
+    <AbsoluteLayout
+        android:layout_width="fill_parent"
+        android:layout_height="560dp"
+        android:layout_y="80dp" >
+
+        <ImageView
+            android:layout_width="634dp"
+            android:layout_height="550dp"
+            android:layout_x="195dp"
+            android:layout_y="15dp"
+            android:background="@drawable/instructions_box" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="280dp"
+            android:layout_y="1dp"
+            android:background="@drawable/high_score" />
+
+        <ImageButton
+            android:id="@+id/high_score_close"
+            android:layout_width="98dp"
+            android:layout_height="101dp"
+            android:layout_x="671dp"
+            android:layout_y="40dp"
+            android:background="@drawable/close" />
+
+        <AbsoluteLayout
+            android:id="@+id/high_score_list"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="430dp"
+            android:layout_y="150dp"
+            android:orientation="vertical" >
+        </AbsoluteLayout>
+
+        <ImageButton
+            android:id="@+id/high_score_start"
+            android:layout_width="154dp"
+            android:layout_height="77dp"
+            android:layout_x="770dp"
+            android:layout_y="480dp"
+            android:background="@drawable/start" />
+
+        <LinearLayout
+            android:id="@+id/high_score_black_bg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="0dp"
+            android:layout_y="0dp"
+            android:orientation="vertical"
+            >
+        </LinearLayout>
+    </AbsoluteLayout>
+
+</AbsoluteLayout>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="boat_move_v">3dp</dimen>
+    <dimen name="boat_x_min">130dp</dimen>
+    <dimen name="click_bmp_h">155dp</dimen>
+    <dimen name="click_bmp_max_w">303dp</dimen>
+    <dimen name="click_bmp_x_s">15dp</dimen>
+    <dimen name="click_bmp_y_s">90dp</dimen>
+    <dimen name="dialog_dx">300dp</dimen>
+    <dimen name="hook_move_v">10dp</dimen>
+    <dimen name="result_dx1">130dp</dimen>
+    <dimen name="result_dx2">30dp</dimen>
+    <dimen name="timer_h">44dp</dimen>
+    <string name="app_name">小小钓鱼王</string>
+    <string name="cancel">取消</string>
+    <string name="file_test">/mnt/sdcard/幼教点学/诺亚舟快乐上小学-自然拼读-预置版.DDS</string>
+    <string name="hello">Hello World, FishMain!</string>
+    <string name="no_record_exists">记录不存在</string>
+    <string name="quit">游戏正在进行，是否要退出？</string>
+    <string name="redo">恭喜你已经通关，是否需要重来？</string>
+    <string name="remind">提示</string>
+    <string name="sure">确定</string>
+    <style name="click_study_text_style">
+        <item name="android:textSize">30dp</item>
+        <item name="android:textColor">#0000ff</item>
+        <item name="android:gravity">center_horizontal|bottom</item>
+    </style>
+    <style name="info_text_style">
+        <item name="android:textSize">24dp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+</resources>

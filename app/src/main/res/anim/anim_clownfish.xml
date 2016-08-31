@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false"
+    android:visible="true" >
+
+    <item
+        android:drawable="@drawable/clownfish_1"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/clownfish_2"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/clownfish_3"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/clownfish_4"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/clownfish_5"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/clownfish_6"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/clownfish_7"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/clownfish_8"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/clownfish_9"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/clownfish_10"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/clownfish_11"
+        android:duration="100"/>
+
+</animation-list>

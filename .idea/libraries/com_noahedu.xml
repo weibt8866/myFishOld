@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.noahedu">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/main/libs/com.noahedu.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

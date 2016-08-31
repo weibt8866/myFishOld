@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\noah_android\\FishOld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\studyword.xml",
+        "source": "D:\\noah_android\\FishOld\\app\\src\\main\\res\\layout\\studyword.xml"
+    },
+    {
+        "merged": "D:\\noah_android\\FishOld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fishmain.xml",
+        "source": "D:\\noah_android\\FishOld\\app\\src\\main\\res\\layout\\fishmain.xml"
+    },
+    {
+        "merged": "D:\\noah_android\\FishOld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\score_view.xml",
+        "source": "D:\\noah_android\\FishOld\\app\\src\\main\\res\\layout\\score_view.xml"
+    },
+    {
+        "merged": "D:\\noah_android\\FishOld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_click_study.xml",
+        "source": "D:\\noah_android\\FishOld\\app\\src\\main\\res\\layout\\layout_click_study.xml"
+    },
+    {
+        "merged": "D:\\noah_android\\FishOld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\instructions.xml",
+        "source": "D:\\noah_android\\FishOld\\app\\src\\main\\res\\layout\\instructions.xml"
+    },
+    {
+        "merged": "D:\\noah_android\\FishOld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\studywordinfo.xml",
+        "source": "D:\\noah_android\\FishOld\\app\\src\\main\\res\\layout\\studywordinfo.xml"
+    },
+    {
+        "merged": "D:\\noah_android\\FishOld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fish.xml",
+        "source": "D:\\noah_android\\FishOld\\app\\src\\main\\res\\layout\\fish.xml"
+    },
+    {
+        "merged": "D:\\noah_android\\FishOld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\highscore.xml",
+        "source": "D:\\noah_android\\FishOld\\app\\src\\main\\res\\layout\\highscore.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\noah_android\\FishOld\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale.xml",
+        "source": "D:\\noah_android\\FishOld\\app\\src\\main\\res\\anim\\scale.xml"
+    },
+    {
+        "merged": "D:\\noah_android\\FishOld\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_clownfish.xml",
+        "source": "D:\\noah_android\\FishOld\\app\\src\\main\\res\\anim\\anim_clownfish.xml"
+    },
+    {
+        "merged": "D:\\noah_android\\FishOld\\app\\build\\intermediates\\res\\merged\\debug\\anim\\duo_speak.xml",
+        "source": "D:\\noah_android\\FishOld\\app\\src\\main\\res\\anim\\duo_speak.xml"
+    }
+]

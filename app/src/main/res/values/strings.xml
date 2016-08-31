@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, FishMain!</string>
+    <string name="app_name">小小钓鱼王</string>
+
+    <string name="no_record_exists">记录不存在</string>
+    <string name="remind">提示</string>
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
+    <string name="quit">游戏正在进行，是否要退出？</string>
+    <string name="redo">恭喜你已经通关，是否需要重来？</string>
+    
+    <string name="file_test">/mnt/sdcard/幼教点学/诺亚舟快乐上小学-自然拼读-预置版.DDS</string>
+</resources>

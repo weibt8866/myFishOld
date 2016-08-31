@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:orientation="horizontal" >
+    
+    <com.noahedu.fish.widget.AlwaysMarqueeTextView
+        android:id="@+id/info_word"
+        style="@style/info_text_style"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        />
+
+    <com.noahedu.fish.widget.AlwaysMarqueeTextView
+        android:id="@+id/info_explain"
+        style="@style/info_text_style"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp" />
+
+    <LinearLayout
+        android:id="@+id/info_pic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp" />
+
+</LinearLayout>

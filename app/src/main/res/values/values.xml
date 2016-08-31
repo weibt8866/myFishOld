@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="timer_h">44dp</dimen>
+    <dimen name="boat_move_v">3dp</dimen>
+    <dimen name="hook_move_v">10dp</dimen>
+    <dimen name="dialog_dx">300dp</dimen>
+    <dimen name="result_dx1">130dp</dimen>
+    <dimen name="result_dx2">30dp</dimen>
+    <dimen name="boat_x_min">130dp</dimen>
+    <dimen name="click_bmp_h">155dp</dimen>
+    <dimen name="click_bmp_x_s">15dp</dimen>
+    <dimen name="click_bmp_y_s">90dp</dimen>
+    <dimen name="click_bmp_max_w">303dp</dimen>
+</resources>

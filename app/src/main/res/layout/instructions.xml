@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg" >
+
+    <ImageView
+        android:layout_width="536dp"
+        android:layout_height="507dp"
+        android:layout_x="244dp"
+        android:layout_y="95dp"
+        android:background="@drawable/instructions_box" />
+
+    <ImageView
+        android:id="@+id/ins_ins"
+        android:layout_width="415dp"
+        android:layout_height="292dp"
+        android:layout_x="300dp"
+        android:layout_y="168dp"
+        android:background="@drawable/shuoming" />
+
+    <ImageButton
+        android:id="@+id/ins_close"
+        android:layout_width="98dp"
+        android:layout_height="101dp"
+        android:layout_x="661dp"
+        android:layout_y="130dp"
+        android:background="@drawable/close" />
+
+    <ImageView
+        android:id="@+id/ins_clownfish"
+        android:layout_width="92dp"
+        android:layout_height="92dp"
+        android:layout_x="270dp"
+        android:layout_y="577dp"
+        android:background="@drawable/clownfish_1" />
+
+    <ImageButton
+        android:id="@+id/ins_start"
+        android:layout_width="154dp"
+        android:layout_height="77dp"
+        android:layout_x="770dp"
+        android:layout_y="580dp"
+        android:background="@drawable/start" />
+
+    <LinearLayout
+        android:id="@+id/ins_black_bg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="0dp" >
+    </LinearLayout>
+
+</AbsoluteLayout>
